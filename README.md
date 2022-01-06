@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am just a guy who learns for fun and try to create something fun.
 
 <!--
 **sanidhaya/sanidhaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my own chess engine, building a neural network architecture, wondering why javascript is so irritating while creating front end for a few websites.
+- 🌱 I’m currently learning Julia, Deno and TypeScript and trying understand how the human body works.
+- 👯 I’m looking to collaborate on NLP and Computer vision. 
+- 🤔 I’m looking for help with life.

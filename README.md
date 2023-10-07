@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my own chess engine, building a neural network architecture, wondering why javascript is so irritating while creating front end for a few websites.
-- 🌱 I’m currently learning Julia, Deno and TypeScript and trying understand how the human body works.
 - 👯 I’m looking to collaborate on NLP and Computer vision. 
 - 🤔 I’m looking for help with life.
-- ⚡ Fun fact: I have blog and I started a series where I gave my AI model to write on various topics and understand what actually nlp understands. Go check it out :                    https://medium.com/@sanidhaya08sharma11

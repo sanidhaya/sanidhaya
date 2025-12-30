@@ -191,23 +191,96 @@ Technical_Depth:
 
 ## 🌟 Featured Repositories
 
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [Expert System for Neurological Disorders](https://github.com/sanidhaya/Expert-System-for-neurological-disorder)
+AI-powered diagnostic system using machine learning and knowledge graphs to detect neurological conditions.
+
+**Tech:** Python, ML, Knowledge Graphs  
+⭐ Production-ready medical AI
+
+</td>
+<td width="50%" valign="top">
+
+### ✍️ [NLP Poem Writer](https://github.com/sanidhaya/NLP-to-write-poem)
+Creative NLP model that generates poetry using transformer architectures and language modeling.
+
+**Tech:** Python, NLP, Transformers  
+⭐ Creative AI application
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 [Go CRM System](https://github.com/sanidhaya/goCRM)
+Enterprise-grade Customer Relationship Management system built with Go for high performance.
+
+**Tech:** Go, REST API, Microservices  
+⭐ Production backend system
+
+</td>
+<td width="50%" valign="top">
+
+### 🦀 [Rust Practice](https://github.com/sanidhaya/RustPractice)
+Systems programming projects exploring Rust's memory safety and concurrency features.
+
+**Tech:** Rust, Systems Programming  
+⭐ Low-level performance optimization
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [Go Web Server](https://github.com/sanidhaya/goWebServer)
+Custom HTTP server implementation demonstrating advanced Go networking concepts.
+
+**Tech:** Go, Networking, HTTP  
+⭐ Systems architecture
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ [AWS Lambda Functions](https://github.com/sanidhaya/goAWSLambda)
+Serverless applications leveraging AWS Lambda for scalable cloud computing.
+
+**Tech:** Go, AWS, Serverless  
+⭐ Cloud-native architecture
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [Rust CSV Reader](https://github.com/sanidhaya/RustCSVreader)
+High-performance data processing tool for large-scale CSV analysis.
+
+**Tech:** Rust, Data Processing  
+⭐ Performance engineering
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [Slack Bot](https://github.com/sanidhaya/slackagebot)
+Intelligent Slack integration bot for team automation and productivity.
+
+**Tech:** Go, Slack API, Webhooks  
+⭐ DevOps automation
+
+</td>
+</tr>
+
+</table>
+
 <div align="center">
 
-<a href="https://github.com/sanidhaya/Expert-System-for-neurological-disorder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhaya&repo=Expert-System-for-neurological-disorder&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/sanidhaya/NLP-to-write-poem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhaya&repo=NLP-to-write-poem&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/sanidhaya/goCRM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhaya&repo=goCRM&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/sanidhaya/RustPractice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhaya&repo=RustPractice&theme=radical&hide_border=true" />
-</a>
+**[📚 View All 38 Repositories →](https://github.com/sanidhaya?tab=repositories)**
 
 </div>
 

@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Sandy | ML Researcher & Systems Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=MS+Computer+Science+%40+Purdue+University;Hierarchical+RL+Researcher;Building+AI+That+Writes+Code;HPC+%26+Distributed+Systems+Expert;Open+to+ML+Research+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=MS+Computer+Science+%40+Purdue+University;Hierarchical+RL+Researcher;Building+AI+That+Writes+Code;Polyglot+Programmer;Open+to+ML+Research+Opportunities" alt="Typing SVG" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)

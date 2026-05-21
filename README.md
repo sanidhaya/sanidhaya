@@ -21,7 +21,7 @@ class MLResearcher:
     def __init__(self):
         self.name = "Sandy"
         self.role = "Graduate Researcher & Systems Engineer"
-        self.institution = "Purdue University Fort Wayne"
+        self.institution = "Purdue University"
         self.focus_areas = ["Reinforcement Learning", "LLM Architecture", "HPC Computing"]
         self.current_mission = "Building AI systems that write better code than humans"
         
